@@ -66,7 +66,7 @@ Q: Why did you make this? <br>
 A: I wanted to learn more about how OSes worked, and thought a Raspberry Pi powered pumpkin would be a cool project.
 
 Q: What resources did you use? <br>
-A: Mostly [rpi4os.com](https://rpi4os.com) and [rockytriton/LLD](https://github.com/rockytriton/LLD), but [this](https://wiki.osdev.org/GCC_Cross-Compiler) [osdev](https://wiki.osdev.org/Main_Page) page was very helpful as well.
+A: Mostly [rpi4os.com](https://www.rpi4os.com) and [rockytriton/LLD](https://github.com/rockytriton/LLD), but [this](https://wiki.osdev.org/GCC_Cross-Compiler) [osdev](https://wiki.osdev.org/Main_Page) page was very helpful as well.
 
 Q: What is the PumpkinOS logo based on?<br>
 A: The Twitter pumpkin emoji.<br>
