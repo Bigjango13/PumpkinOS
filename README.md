@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Bigjango13/PumpkinOS/main/images/logo.png" />
+  <img src="https://raw.githubusercontent.com/Bigjango13/PumpkinOS/master/images/logo.png" />
 </p>
 
 # PumpkinOS
